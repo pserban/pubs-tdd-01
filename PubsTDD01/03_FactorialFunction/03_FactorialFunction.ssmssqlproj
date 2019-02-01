@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="03_FactorialFunction">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DEV01\DEV:CONTOSO\userone">
+          <Created>2019-01-31T22:48:08.3895785-05:00</Created>
+          <Type>SQL</Type>
+          <Server>DEV01\DEV</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="02_CreateTestClass.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DEV01\DEV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DEV01\DEV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>02_CreateTestClass.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03_RunAllTests.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DEV01\DEV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DEV01\DEV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>03_RunAllTests.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04_CreateFirstUnitTest.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DEV01\DEV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DEV01\DEV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>04_CreateFirstUnitTest.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06_Create_udf_Factorial_Function.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DEV01\DEV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DEV01\DEV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>06_Create_udf_Factorial_Function.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08a test That Factorial Of 0 Is 1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DEV01\DEV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DEV01\DEV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>08a test That Factorial Of 0 Is 1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08b test That Factorial Of 1 Is 1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DEV01\DEV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DEV01\DEV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>08b test That Factorial Of 1 Is 1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08c test That Factorial Of 2 Is 2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DEV01\DEV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DEV01\DEV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>08c test That Factorial Of 2 Is 2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08d test That Factorial Of 3 Is 6.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DEV01\DEV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DEV01\DEV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>08d test That Factorial Of 3 Is 6.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08e test That Factorial Of 4 is 24.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DEV01\DEV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DEV01\DEV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>08e test That Factorial Of 4 is 24.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
