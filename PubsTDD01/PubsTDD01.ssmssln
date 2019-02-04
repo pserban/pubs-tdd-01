@@ -5,13 +5,16 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "03_FactorialFunction", "03_FactorialFunction\03_FactorialFunction.ssmssqlproj", "{14415006-13E5-4403-AAFB-8B799FC60338}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "05_DemoTDD_FactorialFunction", "05_DemoTDD_FactorialFunction\05_DemoTDD_FactorialFunction.ssmssqlproj", "{406C6EC6-2ABA-4000-AD91-9A1D080BDC12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{14415006-13E5-4403-AAFB-8B799FC60338}.Default|Default.ActiveCfg = Default
-		{22C5E2C2-D35A-4714-9D6C-572C7C2EBB06}.Default|Default.ActiveCfg = Default
+		{5B93317C-0522-4FF7-BF65-05FF834C248B}.Default|Default.ActiveCfg = Default
+		{406C6EC6-2ABA-4000-AD91-9A1D080BDC12}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
